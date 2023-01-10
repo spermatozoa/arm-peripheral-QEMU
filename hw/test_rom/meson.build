@@ -1,0 +1,1 @@
+softmmu_ss.add(when: 'CONFIG_TEST_ROM', if_true: files('test_rom.c'))

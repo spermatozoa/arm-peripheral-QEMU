@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "char-serial.h": "c",
+        "memory.h": "c",
+        "char-fe.h": "c",
+        "fifo8.h": "c",
+        "char.h": "c",
+        "sysbus.h": "c",
+        "object.h": "c"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/meson/mesonbuild/dependencies/data"
+}
